@@ -19,7 +19,6 @@ public class Array {
 			System.out.print(array[i] + " ");
 		}
 		
-		System.out.println("Hello World!");
 	}
 
 }
