@@ -1,8 +1,9 @@
-import java.util.Scanner;
 
 /*
  * https://www.hackerrank.com/challenges/30-recursion/problem
  */
+
+import java.util.Scanner;
 public class Recursion {
 
 	public static void main(String[] args) {
