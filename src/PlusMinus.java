@@ -8,7 +8,6 @@ public class PlusMinus {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
 
-        int[] array = new int[num];
         double positive = 0;
         double negative = 0;
         double zero = 0;
