@@ -1,4 +1,4 @@
-/*
+package HackerRank;/*
  * https://www.hackerrank.com/challenges/plus-minus/problem
  */
 import java.util.*;
