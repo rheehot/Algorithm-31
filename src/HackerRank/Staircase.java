@@ -1,4 +1,6 @@
-package HackerRank;/*
+package HackerRank;
+
+/*
  * https://www.hackerrank.com/challenges/staircase/problem
  */
 

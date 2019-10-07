@@ -1,4 +1,6 @@
-package HackerRank;/*
+package HackerRank;
+
+/*
  * https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
  */
 
