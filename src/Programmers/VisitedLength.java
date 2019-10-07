@@ -20,16 +20,6 @@ class Dir {
     }
 }
 
-class Pointer {
-    int row;
-    int col;
-
-    Pointer(int row, int col) {
-        this.row = row;
-        this.col = col;
-    }
-}
-
 public class VisitedLength {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
