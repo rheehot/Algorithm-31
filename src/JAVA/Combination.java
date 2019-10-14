@@ -1,4 +1,4 @@
-package JAVA;
+package src.JAVA;
 
 import java.util.*;
 public class Combination {

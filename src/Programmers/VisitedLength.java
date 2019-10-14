@@ -1,4 +1,4 @@
-package Programmers;
+package src.Programmers;
 
 /*
  * https://programmers.co.kr/learn/courses/30/lessons/49994?language=java

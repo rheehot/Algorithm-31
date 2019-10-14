@@ -1,4 +1,4 @@
-package HackerRank;
+package src.HackerRank;
 
 /*
  * https://www.hackerrank.com/challenges/diagonal-difference/problem

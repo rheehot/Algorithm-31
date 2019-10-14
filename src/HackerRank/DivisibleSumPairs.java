@@ -1,4 +1,4 @@
-package HackerRank;
+package src.HackerRank;
 
 /*
  * https://www.hackerrank.com/challenges/divisible-sum-pairs/problem

@@ -1,8 +1,9 @@
-package HackerRank;
+package src.HackerRank;
 
 /*
  * https://www.hackerrank.com/challenges/plus-minus/problem
  */
+
 import java.util.*;
 public class PlusMinus {
 
