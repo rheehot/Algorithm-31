@@ -4,8 +4,6 @@ package src.Programmers;
  * https://programmers.co.kr/learn/courses/30/lessons/12987?language=java
  */
 
-import src.HackerRank.Array;
-
 import java.util.*;
 public class NumberGame {
 

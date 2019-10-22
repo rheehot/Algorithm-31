@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee83f842-b5cf-4ad3-874e-172b7259c15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/NumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Network.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/WordChainGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/WordChainGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/NumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/NumberGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/NumberGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,14 +26,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Programmers/NumberGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Programmers/Network.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Programmers/Jump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -80,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/Programmers/TwoXn.java" />
         <option value="$PROJECT_DIR$/src/Programmers/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Programmers/NumberGame.java" />
+        <option value="$PROJECT_DIR$/src/Programmers/Network.java" />
+        <option value="$PROJECT_DIR$/src/Programmers/Jump.java" />
       </list>
     </option>
   </component>
@@ -150,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571752086570" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571754920605" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -171,12 +189,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberGame">
-    <configuration name="BonAppetit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.HackerRank.BonAppetit" />
+  <component name="RunManager" selected="Application.Jump">
+    <configuration name="Jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Programmers.Jump" />
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.HackerRank.*" />
+          <option name="PATTERN" value="src.Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BonAppetit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.HackerRank.BonAppetit" />
+    <configuration name="Network" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Programmers.Network" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.HackerRank.*" />
+          <option name="PATTERN" value="src.Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jump" />
+        <item itemvalue="Application.Network" />
         <item itemvalue="Application.NumberGame" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.WordChainGame" />
-        <item itemvalue="Application.BonAppetit" />
-        <item itemvalue="Application.BonAppetit (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -260,12 +279,12 @@
       <workItem from="1571057262278" duration="6475000" />
       <workItem from="1571146375547" duration="553000" />
       <workItem from="1571228245683" duration="2954000" />
-      <workItem from="1571746451419" duration="4333000" />
+      <workItem from="1571746451419" duration="5907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14431000" />
+    <option name="totallyTimeSpent" value="16005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -280,7 +299,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,11 +524,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Programmers/NumberGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programmers/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programmers/Jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
         </state>
       </provider>
     </entry>
