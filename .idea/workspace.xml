@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee83f842-b5cf-4ad3-874e-172b7259c15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/TravelPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/FunctionDevelop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/ChangeWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/src/Programmers/ChangeWord.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,17 +17,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Programmers/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Programmers/TravelPath.java">
+        <entry file="file://$PROJECT_DIR$/src/Programmers/FunctionDevelop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="780">
+              <caret line="52" column="22" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+              <folding>
+                <element signature="e#274#283#0" expanded="true" />
+                <element signature="e#332#341#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/Programmers/Network.java" />
         <option value="$PROJECT_DIR$/src/Programmers/ChangeWord.java" />
         <option value="$PROJECT_DIR$/src/Programmers/TravelPath.java" />
+        <option value="$PROJECT_DIR$/src/Programmers/FunctionDevelop.java" />
       </list>
     </option>
   </component>
@@ -150,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572612862940" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572614748076" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -267,12 +271,12 @@
       <workItem from="1572262759665" duration="5721000" />
       <workItem from="1572350500949" duration="606000" />
       <workItem from="1572523288157" duration="1780000" />
-      <workItem from="1572610176649" duration="1471000" />
+      <workItem from="1572610176649" duration="3408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33436000" />
+    <option name="totallyTimeSpent" value="35373000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +301,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.04109589" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3931507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3931507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
@@ -322,28 +326,6 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Programmers/TravelPath.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Programmers/TravelPath.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Programmers/TravelPath.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="tickets.length" language="JAVA" />
@@ -591,17 +573,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Programmers/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Programmers/TravelPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="319">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Programmers/TravelPath.java">
+    <entry file="file://$PROJECT_DIR$/src/Programmers/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programmers/FunctionDevelop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <element signature="e#274#283#0" expanded="true" />
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
