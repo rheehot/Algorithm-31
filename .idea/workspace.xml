@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/NQueen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/Algorithm.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/NQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/NQueen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/NQueen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +30,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Application.NQueen">
@@ -80,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583013991249</updated>
-      <workItem from="1583013995322" duration="114000" />
+      <workItem from="1583013995322" duration="1302000" />
     </task>
     <servers />
   </component>
@@ -88,22 +84,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1583014093108">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom" timestamp="1583018182867">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093108" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1583014093107">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1583018182867" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center" timestamp="1583018182866">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093107" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1583014093106">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1583018182866" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left" timestamp="1583018182865">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093106" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1583014093107">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1583018182865" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right" timestamp="1583018182866">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093107" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1583018182866" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1583014108682">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
