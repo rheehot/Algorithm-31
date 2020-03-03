@@ -18,16 +18,16 @@ public class HanNumber {
 
         int result = 99;
 
-        for(int i = 100; i <= n; i++) {
+        for (int i = 100; i <= n; i++) {
             int temp = i;
             int desc = (temp % 10) - (temp / 10) % 10;
 
             boolean yes = true;
-            while(temp >= 10) {
+            while (temp >= 10) {
                 int first = temp % 10;
                 int second = (temp / 10) % 10;
 
-                if(first - second != desc) {
+                if (first - second != desc) {
                     yes = false;
                     break;
                 }
