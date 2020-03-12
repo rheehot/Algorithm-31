@@ -26,4 +26,19 @@ public class Snail {
             }
         }
     }
+
+    public static void snailtwo() {
+        Scanner scan = new Scanner(System.in);
+
+        int A = scan.nextInt();
+        int B = scan.nextInt();
+        int V = scan.nextInt();
+
+        if((V - B) % (A - B) == 0) {
+            System.out.println((V - B) / (A - B));
+        }
+        else {
+            System.out.println((V - B) / (A - B) + 1);
+        }
+    }
 }
