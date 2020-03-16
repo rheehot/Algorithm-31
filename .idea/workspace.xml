@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Bunyu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Sosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/SosuTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/FindSosu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/ACMHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/ACMHotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Snail.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Snail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Fly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/SosuTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/SosuTwo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.SosuTwo">
+  <component name="RunManager" selected="Application.FindSosu">
     <configuration name="ACMHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BACKJOON.ACMHotel" />
       <module name="Algorithm" />
@@ -73,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.Snail" />
+    <configuration name="FindSosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.FindSosu" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSosu" />
         <item itemvalue="Application.SosuTwo" />
         <item itemvalue="Application.Sosu" />
         <item itemvalue="Application.Bunyu" />
         <item itemvalue="Application.ACMHotel" />
-        <item itemvalue="Application.Snail" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +137,7 @@
       <workItem from="1583925080079" duration="5128000" />
       <workItem from="1584013908706" duration="3547000" />
       <workItem from="1584097881104" duration="4854000" />
+      <workItem from="1584357905138" duration="1187000" />
     </task>
     <servers />
   </component>
@@ -147,34 +145,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="937" height="186" key="GridCell.Tab.0.bottom" timestamp="1584103121891">
+    <state width="937" height="186" key="GridCell.Tab.0.bottom" timestamp="1584359098956">
       <screen x="0" y="23" width="1792" height="1040" />
     </state>
-    <state width="937" height="186" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1584103121891" />
+    <state width="937" height="186" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1584359098956" />
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093108" />
     <state width="1878" height="201" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1584020550103" />
     <state width="789" height="386" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1583848600935" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1583572766033" />
-    <state width="937" height="186" key="GridCell.Tab.0.center" timestamp="1584103121890">
+    <state width="937" height="186" key="GridCell.Tab.0.center" timestamp="1584359098956">
       <screen x="0" y="23" width="1792" height="1040" />
     </state>
-    <state width="937" height="186" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1584103121890" />
+    <state width="937" height="186" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1584359098956" />
     <state width="1750" height="318" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093107" />
     <state width="1878" height="201" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1584020550100" />
     <state width="789" height="386" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1583848600934" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1583572766033" />
-    <state width="937" height="186" key="GridCell.Tab.0.left" timestamp="1584103121890">
+    <state width="937" height="186" key="GridCell.Tab.0.left" timestamp="1584359098955">
       <screen x="0" y="23" width="1792" height="1040" />
     </state>
-    <state width="937" height="186" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1584103121890" />
+    <state width="937" height="186" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1584359098955" />
     <state width="1750" height="318" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093106" />
     <state width="1878" height="201" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1584020550100" />
     <state width="789" height="386" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1583848600934" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1583572766032" />
-    <state width="937" height="186" key="GridCell.Tab.0.right" timestamp="1584103121890">
+    <state width="937" height="186" key="GridCell.Tab.0.right" timestamp="1584359098956">
       <screen x="0" y="23" width="1792" height="1040" />
     </state>
-    <state width="937" height="186" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1584103121890" />
+    <state width="937" height="186" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1584359098956" />
     <state width="1750" height="318" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014093107" />
     <state width="1878" height="201" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1584020550101" />
     <state width="789" height="386" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1583848600935" />
