@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/IntSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/FourDot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,8 @@
       <workItem from="1584013908706" duration="3547000" />
       <workItem from="1584097881104" duration="4854000" />
       <workItem from="1584357905138" duration="3023000" />
-      <workItem from="1584362086868" duration="417000" />
+      <workItem from="1584362086868" duration="685000" />
+      <workItem from="1584444107208" duration="689000" />
     </task>
     <servers />
   </component>
@@ -200,10 +202,10 @@
     </state>
     <state x="397" y="208" key="SettingsEditor/0.23.1792.1040@0.23.1792.1040" timestamp="1584359267316" />
     <state x="397" y="199" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583014108682" />
-    <state x="573" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1584362086385">
-      <screen x="0" y="23" width="1792" height="1040" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1584444125472">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1584097882513" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1584444125472" />
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1584362086385" />
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1583564466869" />
     <state x="1005" y="254" key="search.everywhere.popup" timestamp="1583152203940">
