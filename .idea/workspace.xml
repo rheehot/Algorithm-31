@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/SortTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/SortTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/SortTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +137,7 @@
       <workItem from="1584357905138" duration="3023000" />
       <workItem from="1584362086868" duration="685000" />
       <workItem from="1584444107208" duration="4249000" />
-      <workItem from="1584618130634" duration="1440000" />
+      <workItem from="1584618130634" duration="1859000" />
     </task>
     <servers />
   </component>

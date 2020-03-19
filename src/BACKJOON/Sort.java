@@ -1,22 +1,24 @@
 package BACKJOON;
 
-import java.io.*;
 import java.util.*;
 
 public class Sort {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
 
-        int N = Integer.parseInt(br.readLine());
-        ArrayList<Integer> arr = new ArrayList<Integer>();
+        int N = scan.nextInt();
+        int[] num = new int[N];
 
         for(int i = 0; i < N; i++) {
-            arr.add(Integer.parseInt(br.readLine()));
+            num[i] = scan.nextInt();
         }
 
-        Collections.sort(arr);
+        Arrays.sort(num);
+
         for(int i = 0; i < N; i++) {
-            System.out.println(arr.get(i));
+            System.out.println(num[i]);
         }
     }
 }
+
+
