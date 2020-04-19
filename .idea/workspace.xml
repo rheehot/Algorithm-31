@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/IronBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <workItem from="1585224074996" duration="2056000" />
       <workItem from="1585567311711" duration="2802000" />
       <workItem from="1586337206209" duration="24000" />
-      <workItem from="1587288586379" duration="7270000" />
+      <workItem from="1587288586379" duration="8378000" />
     </task>
     <servers />
   </component>
