@@ -4,50 +4,55 @@ package src.Programmers;
  * https://programmers.co.kr/learn/courses/30/lessons/42587?language=java
  */
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class Printer {
-    public static int solution(int[] priorities, int location) {
-        int[] priority = new int[10];
-        Queue<Print> priorityQ = new LinkedList<>();
+    class Print {
+        int grade;
+        boolean target;
+
+        Print(int grade, boolean target) {
+            this.grade = grade;
+            this.target = target;
+        }
+    }
+
+    public int solution(int[] priorities, int location) {
+        Queue<Print> printer = new LinkedList<>();
+        int[] prioritiArr = new int[10];
+
         for(int i = 0; i < priorities.length; i++) {
-            priority[priorities[i]]++;
-            priorityQ.add(new Print(i, priorities[i]));
+            printer.add(new Print(priorities[i], (i == location) ? true : false));
+            prioritiArr[priorities[i]]++;
         }
 
-        int answer = 0;
-        while(true) {
-            Print temp = priorityQ.remove();
+        int count = 0;
+        while(!printer.isEmpty()) {
+            Print j = printer.remove();
 
-            boolean isBig = false;
-            for(int i = 1; i < priority.length; i++) {
-                if (i > temp.priority && priority[i] > 0) {
-                    priorityQ.add(temp);
-                    isBig = true;
+            boolean flag = true;
+            for(int i = j.grade + 1; i < 10; i++) {
+                if (prioritiArr[i] > 0) {
+                    flag = false;
                     break;
                 }
             }
 
-            if (isBig) {
-                continue;
+            // j가 최우선
+            if (flag) {
+                count++;
+                prioritiArr[j.grade]--;
+                if(j.target) {
+                    return count;
+                }
             }
-
-            answer++;
-            priority[temp.priority]--;
-            if(temp.location == location) {
-                break;
+            // j보다 우선순위 높은게 존재
+            else {
+                printer.add(j);
             }
         }
 
-        return answer;
-    }
-}
-
-class Print {
-    int location;
-    int priority;
-
-    Print(int location, int priority) {
-        this.location = location;
-        this.priority = priority;
+        return priorities.length;
     }
 }
