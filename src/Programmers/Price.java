@@ -9,8 +9,8 @@ public class Price {
                 break;
             }
             boolean flag = true;
-            for(int j = i + 1; j < prices.length; j++) {
-                if(prices[i] > prices[j]) {
+            for (int j = i + 1; j < prices.length; j++) {
+                if (prices[i] > prices[j]) {
                     answer[i] = j - i;
                     flag = false;
                     break;
