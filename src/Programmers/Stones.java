@@ -1,6 +1,6 @@
 package Programmers;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Stones {
     public static void main(String[] args) {
@@ -15,50 +15,45 @@ public class Stones {
         System.out.println(solution(stones, k));
     }
 
-    public static int result = 0;
     public static int solution(int[] stones, int k) {
-        int[] s = new int[stones.length + 1];
-        for(int i = 1; i < s.length; i++) {
-            s[i] = stones[i - 1];
+        int start = Arrays.stream(stones).min().getAsInt();
+        int end = Arrays.stream(stones).max().getAsInt();
+        int answer = 0;
+        while(start <= end) {
+            int middle = (start + end) / 2;
+            if (cross(stones, middle, k)) {
+                answer = middle;
+                start = middle + 1;
+            }
+            else {
+                end = middle - 1;
+            }
         }
-//        dfs(stones, k, 0);
-        dfs2(s, k, 0);
-        return result;
+
+        return answer;
     }
 
-    public static void dfs(int[] stones, int k, int niniz) {
+    public static boolean cross(int[] stones, int middle, int k) {
 
-        int index = -1;
-        while(true) {
-            boolean flag = true;
-            for(int i = 1; i <= k; i++) {
-                if (index + i >= stones.length) {
-                    dfs(stones, k, niniz + 1);
-                    return;
-                }
-                // 징검다리로 이동
-                if(stones[index + i] > 0) {
-                    index = index + i;
-                    stones[index]--;
-                    flag = false;
-                    break;
-                }
+        for(int i = 0; i < stones.length; i++) {
+            System.out.print(stones[i] + " ");
+        }
+        System.out.println();
+
+        Arrays.setAll(stones, i -> stones[i] - middle + 1);
+
+        int cnt = 0;
+        int max = 0;
+        for(int stone : stones) {
+            if (cnt > 0 && stone > 0) {
+                max = Math.max(max, cnt);
+                cnt = 0;
             }
-            // 이동할 곳이 없음
-            if(flag) {
-                if (result < niniz) {
-                    result = niniz;
-                    return;
-                }
+            else if (stone <= 0) {
+                cnt++;
             }
         }
-    }
 
-    public static void dfs2(int[] stones, int k, int niniz) {
-        for(int i = 1; i < stones.length; i++) {
-            if(stones[i] <= 0) {
-                
-            }
-        }
+        return (Math.max(max, cnt) < k);
     }
 }
