@@ -66,7 +66,18 @@ public class Fishing {
                         Shark temp = sharkMap.get(isShark[i][j]);
                         int tempI = i;
                         int tempJ = j;
-                        for(int s = 1; s <= temp.speed; s++) {
+
+                        int tempSpeed = 0;
+
+                        if(temp.dir == 0 || temp.dir == 2) {
+                            tempSpeed = temp.speed % ((R - 1) * 2);
+                        }
+                        else if (temp.dir == 1 || temp.dir == 3) {
+                            tempSpeed = temp.speed % ((C - 1) * 2);
+                        }
+
+
+                        for(int s = 1; s <= tempSpeed; s++) {
 
                             if (temp.dir == 0 && tempI <= 1) {
                                 temp.dir = (temp.dir + 2) % 4;
@@ -99,12 +110,7 @@ public class Fishing {
                     }
                 }
             }
-            for(int i = 1; i <= R; i++) {
-                for(int j = 1; j <= C; j++) {
-                    isShark[i][j] = nextMap[i][j];
-                }
-            }
-//            isShark = nextMap;
+            isShark = nextMap;
         }
 
         System.out.println(result);
