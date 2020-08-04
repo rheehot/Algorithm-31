@@ -1,5 +1,6 @@
-import java.util.*;
-class Solution {
+package Programmers;
+
+class JudgeRoot {
     public long solution(long n) {
         
         double s = Math.sqrt(n);

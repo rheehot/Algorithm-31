@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class FindKimInSeoul {
     public String solution(String[] seoul) {
         for(int index = 0; index < seoul.length; index++) {
             if(seoul[index].equals("Kim")) {

@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class FindSosu {
     public int solution(int n) {
         int answer = 0;
         boolean[] sosu = new boolean[n + 1];

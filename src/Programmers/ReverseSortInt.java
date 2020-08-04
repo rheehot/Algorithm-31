@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class ReverseSortInt {
     public long solution(long n) {
         
         if(n <= 10) {

@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class XGapNumber {
     public long[] solution(int x, int n) {
         long[] answer = new long[n];
         answer[0] = x;

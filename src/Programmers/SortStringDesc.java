@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class SortStringDesc {
     public String solution(String s) {
         
         char[] temp = new char[s.length()];

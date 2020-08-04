@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class HidePhoneNumber {
     public String solution(String phone_number) {
         String answer = "";
         int len = phone_number.length();

@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class SumYac {
     public int solution(int n) {
         boolean[] yac = new boolean[n + 1];
         

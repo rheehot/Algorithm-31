@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class ReverseArr {
     public int[] solution(long n) {
         ArrayList<Integer> temp = new ArrayList<>();
         

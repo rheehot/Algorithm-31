@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class ZeroNum {
     public int[] solution(int[] arr, int divisor) {
         
         Arrays.sort(arr);

@@ -1,5 +1,7 @@
-class Solution {
-    boolean solution(String s) {
+package Programmers;
+
+public class CountPY {
+    public static boolean solution(String s) {
          s = s.toLowerCase();
 
         int pNum = 0;

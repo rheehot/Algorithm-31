@@ -1,6 +1,6 @@
-import java.util.*;
+package Programmers;
 
-class Solution {
+class GymSuit {
     public int solution(int n, int[] lost, int[] reserve) {
         
         int[] students = new int[n + 1];

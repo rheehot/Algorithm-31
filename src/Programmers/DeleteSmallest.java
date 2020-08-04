@@ -1,5 +1,6 @@
-import java.util.*;
-class Solution {
+package Programmers;
+
+class DeleteSmallest {
     public int[] solution(int[] arr) {
         if (arr.length < 2) {
             int[] answer = {-1};

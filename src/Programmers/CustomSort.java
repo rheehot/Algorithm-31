@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class CustomSort {
     public String[] solution(String[] strings, int n) {
         Arrays.sort(strings, new Comparator<String>() {
             @Override

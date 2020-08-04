@@ -1,6 +1,5 @@
-import java.util.*;
-
-public class Solution {
+package Programmers;
+public class RepeatSum {
     public int solution(int n) {
         int answer = 0;
         while(n > 0) {

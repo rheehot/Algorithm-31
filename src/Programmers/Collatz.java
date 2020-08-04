@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class Collatz {
     public int solution(int num) {
         int count = 0;
         long n = num;

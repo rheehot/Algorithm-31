@@ -1,5 +1,7 @@
+package Programmers;
+
 import java.util.*;
-class Solution {
+class KsNumber {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         for(int index = 0; index < commands.length; index++) {

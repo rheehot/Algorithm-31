@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class Hashad {
     public boolean solution(int x) {
         
         int num = x;

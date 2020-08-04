@@ -1,6 +1,8 @@
+package Programmers;
+
 import java.util.*;
 
-class Solution {
+class PreTest {
     public int[] solution(int[] answers) {
         
         int oneResult = one(answers);

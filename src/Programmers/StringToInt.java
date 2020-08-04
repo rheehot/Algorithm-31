@@ -1,5 +1,6 @@
-import java.util.*;
-class Solution {
+package Programmers;
+
+class StringToInt {
     public int solution(String s) {
         if (s.charAt(0) == '+') {
             String temp = s.substring(1);

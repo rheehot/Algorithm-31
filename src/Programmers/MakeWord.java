@@ -1,5 +1,6 @@
-import java.util.*;
-class Solution {
+package Programmers;
+
+class MakeWord {
     public String solution(String s) {
         s = s.replace(" ", "/");
     

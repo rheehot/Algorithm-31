@@ -19,7 +19,7 @@ public class KakaoOne {
 
         int n = scan.nextInt();
         int[] numbers = new int[n];
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             numbers[i] = scan.nextInt();
         }
         String hand = scan.nextLine();
@@ -39,7 +39,7 @@ public class KakaoOne {
         map.put(5, new Point(1, 1));
         map.put(8, new Point(2, 1));
 
-        for(int num : numbers) {
+        for (int num : numbers) {
             // 왼손만 가능
             if (num == 1 || num == 4 || num == 7) {
                 answer += "L";
@@ -57,21 +57,18 @@ public class KakaoOne {
             int distanceLeft = Math.abs(target.i - curLeft.i) + Math.abs(target.j - curLeft.j);
             int distanceRight = Math.abs(target.i - curRight.i) + Math.abs(target.j - curRight.j);
 
-            if(distanceLeft == distanceRight) {
+            if (distanceLeft == distanceRight) {
                 if (hand.equals("right")) {
                     answer += "R";
                     curRight = target;
-                }
-                else {
+                } else {
                     answer += "L";
                     curLeft = target;
                 }
-            }
-            else if(distanceLeft < distanceRight) {
+            } else if (distanceLeft < distanceRight) {
                 answer += "L";
                 curLeft = target;
-            }
-            else if(distanceLeft > distanceRight){
+            } else if (distanceLeft > distanceRight) {
                 answer += "R";
                 curRight = target;
 

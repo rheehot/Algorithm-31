@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class GetAvg {
     public double solution(int[] arr) {
         
         double sum = 0;

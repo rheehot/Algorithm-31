@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class TwoIntSum {
     public long solution(int a, int b) {
         
         if(a == b) {

@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class SearchDayByYear {
     public String solution(int a, int b) {
         int[] dayNum = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         String[] day = {"THU", "FRI", "SAT", "SUN", "MON", "TUE", "WED"};

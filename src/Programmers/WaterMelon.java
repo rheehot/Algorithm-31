@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class WaterMelon {
     public String solution(int n) {
         String format = "수박";
     

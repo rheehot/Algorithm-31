@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class GetMiddleString {
     public String solution(String s) {
         // 길이가 짝수
         if(s.length() % 2 == 0) {
