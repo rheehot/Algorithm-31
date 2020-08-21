@@ -2,52 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/Test/Candy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Test/MidasOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Test/MidasThreeTemp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Test/MidasTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BraketTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/BaseBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/SecretMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/marathon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/MidasThreeTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/AddressNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/HannaFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/HidePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Laboratory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/SearchMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/ChangeBraket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/FourBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/NewsClustering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Test/KakaoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test/KakaoOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Test/SummerThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test/SummerThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/CareStringBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/CareStringBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Collatz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/CountPY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/CountPY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/CustomSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/CustomSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/DeleteSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/DeleteSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/FindKimInSeoul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/FindKimInSeoul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/FindSosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/FindSosu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/GetAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/GetAvg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/GetMiddleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/GetMiddleString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/GymSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/GymSuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Hashad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Hashad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/HidePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/HidePhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/JudgeRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/JudgeRoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/KsNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/KsNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/MakeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/MakeWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/PreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/PreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/RepeatSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/RepeatSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/ReverseArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/ReverseArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/ReverseSortInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/ReverseSortInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/SearchDayByYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SearchDayByYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/SortStringDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SortStringDesc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/StringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/SumYac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SumYac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/TwoIntSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/TwoIntSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/WaterMelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/WaterMelon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/XGapNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/XGapNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/ZeroNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/ZeroNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/KakaoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/KakaoOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MidasOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/MidasOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MidasThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/MidasTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/MidasTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/DartGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/DartGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +20,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="139" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,61 +52,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.SecretMap">
-    <configuration name="Braket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.Braket" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BraketTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.BraketTwo" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bunyu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.Bunyu" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MidasThreeTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.MidasThreeTemp" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecretMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.SecretMap" />
+  <component name="RunManager" selected="Application.SearchMaze">
+    <configuration name="FourBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.FourBlocks" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -151,13 +66,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HidePlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.HidePlay" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.Laboratory" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsClustering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.NewsClustering" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.SearchMaze" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecretMap" />
-        <item itemvalue="Application.Braket" />
-        <item itemvalue="Application.Bunyu" />
-        <item itemvalue="Application.BraketTwo" />
-        <item itemvalue="Application.MidasThreeTemp" />
+        <item itemvalue="Application.SearchMaze" />
+        <item itemvalue="Application.HidePlay" />
+        <item itemvalue="Application.FourBlocks" />
+        <item itemvalue="Application.Laboratory" />
+        <item itemvalue="Application.NewsClustering" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +190,11 @@
       <workItem from="1592872144175" duration="3937000" />
       <workItem from="1595830602633" duration="1001000" />
       <workItem from="1595909264177" duration="8599000" />
-      <workItem from="1596520183377" duration="3983000" />
+      <workItem from="1596520183377" duration="7377000" />
+      <workItem from="1597297802972" duration="8387000" />
+      <workItem from="1597736265831" duration="5000" />
+      <workItem from="1597736276519" duration="8260000" />
+      <workItem from="1597809482070" duration="10137000" />
     </task>
     <servers />
   </component>
@@ -231,49 +202,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1021" height="129" key="GridCell.Tab.0.bottom" timestamp="1596524201758">
-      <screen x="0" y="23" width="1792" height="1040" />
+    <state width="1878" height="182" key="GridCell.Tab.0.bottom" timestamp="1597824909878">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1750" height="240" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1588897620259" />
-    <state width="1021" height="129" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1596524201758" />
-    <state width="1878" height="140" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590220790638" />
+    <state width="896" height="129" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866345" />
+    <state width="1878" height="182" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597824317104" />
     <state width="1878" height="229" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1589716163376" />
-    <state width="1193" height="223" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806405" />
+    <state width="1878" height="182" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1597824909878" />
     <state width="1193" height="140" key="GridCell.Tab.0.bottom/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590216056530" />
-    <state width="1878" height="291" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188385" />
     <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066088" />
-    <state width="1021" height="129" key="GridCell.Tab.0.center" timestamp="1596524201757">
-      <screen x="0" y="23" width="1792" height="1040" />
+    <state width="1878" height="182" key="GridCell.Tab.0.center" timestamp="1597824909876">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1750" height="240" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1588897620259" />
-    <state width="1021" height="129" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1596524201757" />
-    <state width="1878" height="140" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590220790637" />
+    <state width="896" height="129" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
+    <state width="1878" height="182" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597824317103" />
     <state width="1878" height="229" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1589716163375" />
-    <state width="1193" height="223" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806404" />
+    <state width="1878" height="182" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1597824909876" />
     <state width="1193" height="140" key="GridCell.Tab.0.center/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590216056529" />
-    <state width="1878" height="291" key="GridCell.Tab.0.center/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188383" />
     <state width="1878" height="262" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066087" />
-    <state width="1021" height="129" key="GridCell.Tab.0.left" timestamp="1596524201757">
-      <screen x="0" y="23" width="1792" height="1040" />
+    <state width="1878" height="182" key="GridCell.Tab.0.left" timestamp="1597824909876">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1750" height="240" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1588897620258" />
-    <state width="1021" height="129" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1596524201757" />
-    <state width="1878" height="140" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590220790636" />
+    <state width="896" height="129" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
+    <state width="1878" height="182" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597824317102" />
     <state width="1878" height="229" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1589716163374" />
-    <state width="1193" height="223" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806403" />
+    <state width="1878" height="182" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1597824909876" />
     <state width="1193" height="140" key="GridCell.Tab.0.left/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590216056529" />
-    <state width="1878" height="291" key="GridCell.Tab.0.left/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188382" />
     <state width="1878" height="262" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066086" />
-    <state width="1021" height="129" key="GridCell.Tab.0.right" timestamp="1596524201758">
-      <screen x="0" y="23" width="1792" height="1040" />
+    <state width="1878" height="182" key="GridCell.Tab.0.right" timestamp="1597824909878">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1750" height="240" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1588897620259" />
-    <state width="1021" height="129" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1596524201758" />
-    <state width="1878" height="140" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590220790637" />
+    <state width="896" height="129" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
+    <state width="1878" height="182" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597824317104" />
     <state width="1878" height="229" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1589716163375" />
-    <state width="1193" height="223" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806405" />
+    <state width="1878" height="182" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1597824909878" />
     <state width="1193" height="140" key="GridCell.Tab.0.right/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590216056530" />
-    <state width="1878" height="291" key="GridCell.Tab.0.right/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188384" />
     <state width="1878" height="262" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066087" />
     <state width="1193" height="223" key="GridCell.Tab.1.bottom" timestamp="1590220806408">
       <screen x="1792" y="0" width="1920" height="1080" />
@@ -281,7 +244,6 @@
     <state width="1878" height="252" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590211781119" />
     <state width="1193" height="223" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806408" />
     <state width="1193" height="223" key="GridCell.Tab.1.bottom/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590215539751" />
-    <state width="1878" height="291" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188388" />
     <state width="1878" height="262" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066090" />
     <state width="1193" height="223" key="GridCell.Tab.1.center" timestamp="1590220806406">
       <screen x="1792" y="0" width="1920" height="1080" />
@@ -289,7 +251,6 @@
     <state width="1878" height="252" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590211781117" />
     <state width="1193" height="223" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806406" />
     <state width="1193" height="223" key="GridCell.Tab.1.center/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590215539750" />
-    <state width="1878" height="291" key="GridCell.Tab.1.center/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188386" />
     <state width="1878" height="262" key="GridCell.Tab.1.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066089" />
     <state width="1193" height="223" key="GridCell.Tab.1.left" timestamp="1590220806406">
       <screen x="1792" y="0" width="1920" height="1080" />
@@ -297,7 +258,6 @@
     <state width="1878" height="252" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590211781117" />
     <state width="1193" height="223" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806406" />
     <state width="1193" height="223" key="GridCell.Tab.1.left/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590215539750" />
-    <state width="1878" height="291" key="GridCell.Tab.1.left/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188386" />
     <state width="1878" height="262" key="GridCell.Tab.1.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066088" />
     <state width="1193" height="223" key="GridCell.Tab.1.right" timestamp="1590220806407">
       <screen x="1792" y="0" width="1920" height="1080" />
@@ -305,14 +265,13 @@
     <state width="1878" height="252" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590211781118" />
     <state width="1193" height="223" key="GridCell.Tab.1.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1590220806407" />
     <state width="1193" height="223" key="GridCell.Tab.1.right/1792.23.1920.1000/0.23.1792.1097@1792.23.1920.1000" timestamp="1590215539750" />
-    <state width="1878" height="291" key="GridCell.Tab.1.right/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1588001188387" />
     <state width="1878" height="262" key="GridCell.Tab.1.right/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589385066089" />
-    <state x="573" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1596520192196">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2406" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1597809484852">
+      <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596520192196" />
-    <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588340229452" />
-    <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590221215285" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1597297803063" />
+    <state x="2406" y="388" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597809484852" />
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1595909722559" />
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1592872147762" />
     <state x="2406" y="388" key="com.intellij.ide.util.TipDialog/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1589545185220" />
@@ -323,7 +282,6 @@
     <state x="2869" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1590206710737">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state x="1005" y="249" width="670" height="702" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1588722310915" />
     <state x="2869" y="240" width="670" height="676" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590206710737" />
   </component>
   <component name="XDebuggerManager">
@@ -332,5 +290,10 @@
         <watch expression="((Pointer)((HashMap.Node)sharkMap.entrySet().toArray()[0]).getKey()).i" custom="BACKJOON.Pointer,java.util.HashMap.Node" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$Fail.ic" NAME="Fail Coverage Results" MODIFIED="1597298328917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Programmers.*</FILTER>
+    </SUITE>
   </component>
 </project>
