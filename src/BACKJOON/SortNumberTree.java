@@ -27,6 +27,6 @@ public class SortNumberTree {
         }
 
         br.close();
-        bw.close();
+        bw.close(); 
     }
 }
