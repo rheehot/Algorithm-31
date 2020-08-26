@@ -1,6 +1,6 @@
 package BACKJOON;
 
-public class StackNum {
+public class SumNum2 {
     public static void main(String[] args) {
         
     }
