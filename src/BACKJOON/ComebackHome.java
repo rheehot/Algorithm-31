@@ -1,70 +1,69 @@
 package BACKJOON;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.io.OutputStreamWriter;
+import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class ComebackHome {
-    public static int R;
-    public static int C;
-    public static int K;
-    public static int[][] map;
-    public static boolean[][][] visit;
+    static int R, C, K;
+    static char[][] map;
 
-    public static int[] dirI = {0, 0, 1, -1};
-    public static int[] dirJ = {1, -1, 0, 0};
+    static ArrayList<String> list = new ArrayList<>();
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int R = Integer.parseInt(st.nextToken());
-        int C = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
+        R = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
 
-        map = new int[R][C];
-        visit = new boolean[R][C][K + 1];
-        for(int i = 0; i < R; i++) {
+        map = new char[R][C];
+        char diff = 'a';
+        for (int i = 0; i < R; i++) {
             String str = br.readLine();
-            for(int j = 0; j < C; j++) {
-                if(str.charAt(j) == 'T') {
-                    map[i][j] = 1;
+            for (int j = 0; j < C; j++) {
+                if (str.charAt(j) == 'T') {
+                    map[i][j] = 'T';
+                    continue;
                 }
+                map[i][j] = diff;
+                diff += 1;
             }
         }
 
-        int answer = 0;
-        int count = 1;
-        visit[R - 1][0][0] = true;
-        Queue<ComebackHomeIndex> q = new LinkedList<>();
-        q.offer(new ComebackHomeIndex(R - 1, 0));
-        while(!q.isEmpty() && count < K) {
-            ComebackHomeIndex temp = q.poll();
-
-            for(int index = 0; index < 4; index++) {
-                int tempI = temp.i + dirI[index];
-                int tempJ = temp.j + dirJ[index];
-
-                if(tempI < 0 || tempI >= R || tempJ < 0 || tempJ >= C || map[tempI][tempJ] == 1) {
-                    continue;
-                }
-                if(count == K - 1 && tempI == R && tempJ == C) {
-                    answer++;
-                    continue;
-                }
-
-                
-            }
-        }
+        solution(R - 1, 0, map[R - 1][0] + "");
+        bw.write(list.size()+"");
+        bw.flush();
+        bw.close();
     }
-}
-class ComebackHomeIndex {
-    int i;
-    int j;
 
-    ComebackHomeIndex(int i, int j) {
-        this.i = i;
-        this.j = j;
+    static int[] dirI = {0, 0, 1, -1};
+    static int[] dirJ = {1, -1, 0, 0};
+
+    public static void solution(int i, int j, String result) {
+        if(result.length() >= K) {
+            if(result.length() == K && result.charAt(result.length() - 1) == map[0][C - 1]) {
+                if(!list.contains(result)) {
+                    list.add(result);
+                }
+            }
+            return;
+        }
+
+        for(int index = 0; index < 4; index++) {
+            int nextI = i + dirI[index];
+            int nextJ = j + dirJ[index];
+
+            if(nextI < 0 || nextI >= R || nextJ < 0 || nextJ >= C || map[nextI][nextJ] == 'T' || result.contains(map[nextI][nextJ]+"")) {
+                continue;
+            }
+
+            solution(nextI, nextJ, result + map[nextI][nextJ]);
+        }
     }
 }

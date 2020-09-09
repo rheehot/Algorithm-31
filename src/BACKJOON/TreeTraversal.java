@@ -1,6 +1,6 @@
 package BACKJOON;
 
-import java.util.*;
+import java.util.Scanner;
 
 class Node {
     char data;

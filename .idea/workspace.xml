@@ -2,13 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/RollingCube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/SortingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/AmusementPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BoxWrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/CoinZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/CrossWordWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/DongBangProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/FakeSunYul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/FourAndSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/IPv6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/JudgeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/JunO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/OrderSunyul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/PartSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/PreWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/RGBPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/TreesLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/UnNormalCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/WallFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/FindRouteGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/KaKao2018Dart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2018Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2018Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2018Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2018Shutle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TEMPLET.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/DOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/DOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/LostBraket.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/LostBraket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/DOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/DOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/LostBraket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/LostBraket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/ComebackHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/ComebackHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/ComebackHomeIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/ComebackHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/ComebackHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/SosuAndPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/SosuAndPalindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/TreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/TreeTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +74,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.RollingCube">
-    <configuration name="DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.DOM" />
+  <component name="RunManager" selected="Application.Kakao2018Shutle">
+    <configuration name="KaKao2018Dart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.KaKao2018Dart" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTreeParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.FindTreeParent" />
+    <configuration name="Kakao2018Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Block" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LostBraket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.LostBraket" />
+    <configuration name="Kakao2018Cache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Cache" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollingCube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.RollingCube" />
+    <configuration name="Kakao2018Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Map" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.SortingGame" />
+    <configuration name="Kakao2018Shutle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Shutle" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RollingCube" />
-        <item itemvalue="Application.LostBraket" />
-        <item itemvalue="Application.SortingGame" />
-        <item itemvalue="Application.DOM" />
-        <item itemvalue="Application.FindTreeParent" />
+        <item itemvalue="Application.Kakao2018Shutle" />
+        <item itemvalue="Application.Kakao2018Block" />
+        <item itemvalue="Application.Kakao2018Cache" />
+        <item itemvalue="Application.Kakao2018Map" />
+        <item itemvalue="Application.KaKao2018Dart" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +231,12 @@
       <workItem from="1598867051701" duration="9121000" />
       <workItem from="1598939612850" duration="18253000" />
       <workItem from="1599028814023" duration="21552000" />
-      <workItem from="1599114909968" duration="5591000" />
+      <workItem from="1599114909968" duration="18456000" />
+      <workItem from="1599185506188" duration="17405000" />
+      <workItem from="1599289860601" duration="13777000" />
+      <workItem from="1599480777807" duration="6076000" />
+      <workItem from="1599546181785" duration="15494000" />
+      <workItem from="1599626334665" duration="3731000" />
     </task>
     <servers />
   </component>
@@ -222,73 +252,73 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="2490" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598608873849" />
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1599120598133">
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1599630935888">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="896" height="129" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866345" />
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599120598133" />
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599054536258" />
-    <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049228268" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630935888" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
+    <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784679" />
     <state width="1878" height="192" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762387" />
-    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1599120598132">
+    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1599630935887">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="896" height="129" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
-    <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599120598132" />
-    <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599054536256" />
-    <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049228266" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630935887" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173351" />
+    <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784678" />
     <state width="1878" height="192" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1599120598131">
+    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1599630935886">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="896" height="129" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
-    <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599120598131" />
-    <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599054536254" />
-    <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049228264" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630935886" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173350" />
+    <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784677" />
     <state width="1878" height="192" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1599120598133">
+    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1599630935887">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="896" height="129" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
-    <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599120598133" />
-    <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599054536257" />
-    <state width="1878" height="251" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049228267" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630935887" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
+    <state width="1878" height="251" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784678" />
     <state width="1878" height="192" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762386" />
-    <state width="1878" height="251" key="GridCell.Tab.1.bottom" timestamp="1599119891382">
+    <state width="1878" height="251" key="GridCell.Tab.1.bottom" timestamp="1599630916088">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599119891382" />
-    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599050830756" />
-    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049234506" />
-    <state width="1878" height="251" key="GridCell.Tab.1.center" timestamp="1599119891381">
+    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630916088" />
+    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707004" />
+    <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784681" />
+    <state width="1878" height="251" key="GridCell.Tab.1.center" timestamp="1599630916086">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599119891381" />
-    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599050830754" />
-    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049234505" />
-    <state width="1878" height="251" key="GridCell.Tab.1.left" timestamp="1599119891381">
+    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630916086" />
+    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707002" />
+    <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784680" />
+    <state width="1878" height="251" key="GridCell.Tab.1.left" timestamp="1599630916086">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599119891381" />
-    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599050830754" />
-    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049234504" />
-    <state width="1878" height="251" key="GridCell.Tab.1.right" timestamp="1599119891382">
+    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630916086" />
+    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707001" />
+    <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784680" />
+    <state width="1878" height="251" key="GridCell.Tab.1.right" timestamp="1599630916087">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599119891382" />
-    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599050830755" />
-    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599049234505" />
+    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599630916087" />
+    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707003" />
+    <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784681" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1598526327281">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="500" height="445" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598526327281" />
-    <state x="2406" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1599114909422">
+    <state x="2406" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1599626337955">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596520192196" />
     <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1597297803063" />
     <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599028829902" />
-    <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599114909422" />
+    <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599626337955" />
     <state x="573" y="387" key="com.intellij.ide.util.TipDialog/1792.23.1920.1057/0.23.1792.1040@0.23.1792.1040" timestamp="1592872147762" />
     <state x="2460" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1599042813483">
       <screen x="1792" y="0" width="1920" height="1080" />
@@ -300,6 +330,55 @@
     <state x="2869" y="240" width="670" height="676" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598883500805" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/FakeSunYul.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/JunO.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/JunO.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/JunO.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/JunO.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BACKJOON/JunO.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/Kakao2018Map.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/Kakao2018Shutle.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/Kakao2018Shutle.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="((Pointer)((HashMap.Node)sharkMap.entrySet().toArray()[0]).getKey()).i" custom="BACKJOON.Pointer,java.util.HashMap.Node" />
