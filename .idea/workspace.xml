@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Live.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Matching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Route.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/PreWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/PreWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/PreWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/PreWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2018Chusuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao2018Chusuk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Programmers/Kakao2019Fail.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Programmers/Kakao2019Fail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2019Fail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Fail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2019Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2019Live.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Live.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2019Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao2019Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao2019Route.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +49,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Kakao2019Chat">
-    <configuration name="Kakao2018Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Block" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Kakao2019Fail">
     <configuration name="Kakao2018Chusuk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2018Chusuk" />
       <module name="Algorithm" />
@@ -107,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kakao2019Fail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Kakao2019Fail" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PreWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BACKJOON.PreWord" />
       <module name="Algorithm" />
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kakao2019Fail" />
         <item itemvalue="Application.Kakao2019Chat" />
         <item itemvalue="Application.PreWord" />
         <item itemvalue="Application.Kakao2018Chusuk" />
         <item itemvalue="Application.Kakao2018Shutle" />
-        <item itemvalue="Application.Kakao2018Block" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +212,7 @@
       <workItem from="1599480777807" duration="6076000" />
       <workItem from="1599546181785" duration="15494000" />
       <workItem from="1599626334665" duration="16819000" />
-      <workItem from="1599711912019" duration="2728000" />
+      <workItem from="1599711912019" duration="15922000" />
     </task>
     <servers />
   </component>
@@ -233,37 +228,37 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="2490" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598608873849" />
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1599714449742">
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom" timestamp="1599716521679">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599714449742" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599716521679" />
     <state width="896" height="129" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866345" />
     <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919320" />
     <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
     <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784679" />
     <state width="1878" height="192" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762387" />
-    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1599714449740">
+    <state width="1878" height="262" key="GridCell.Tab.0.center" timestamp="1599716521678">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599714449740" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599716521678" />
     <state width="896" height="129" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
     <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919318" />
     <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173351" />
     <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784678" />
     <state width="1878" height="192" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1599714449739">
+    <state width="1878" height="262" key="GridCell.Tab.0.left" timestamp="1599716521677">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599714449739" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599716521677" />
     <state width="896" height="129" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
     <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919318" />
     <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173350" />
     <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784677" />
     <state width="1878" height="192" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1599714449741">
+    <state width="1878" height="262" key="GridCell.Tab.0.right" timestamp="1599716521678">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="262" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599714449741" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1599716521678" />
     <state width="896" height="129" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1597306866344" />
     <state width="1878" height="251" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919319" />
     <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
