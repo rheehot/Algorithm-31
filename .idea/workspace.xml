@@ -2,87 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BabyShark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Teaching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/ACMHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/ACMHotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Ascii.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Ascii.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/BeeHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/BeeHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Bertrang.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Bertrang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Braket.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Braket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Bunyu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Bunyu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/CroatiaAlpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/CroatiaAlpha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/DeliverySugar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/DeliverySugar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Dial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Dial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/EscapeSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/EscapeSquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/FindAlpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/FindAlpha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/FindBunsu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/FindBunsu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/FindSosu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/FindSosu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Fly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/FourDot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/FourDot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Goldbah.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Goldbah.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/GroupWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/GroupWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/HanNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/HanNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/NQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/NQueen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/NSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/NSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/NumWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/NumWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/NumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/NumberSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/RepeatStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/RepeatStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Sangsu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Sangsu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/SelfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/SelfNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Snail.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Snail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Sonik.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Sonik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/SortTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/SortTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Sosu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Sosu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/SosuTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/SosuTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/StackOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/StackOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/StudyWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/StudyWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Taxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Taxi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Teret.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Teret.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/World.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Zero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Zero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/Algorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Programmers/IntSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Programmers/IntSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Programmers/MakeSosu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Programmers/MakeSosu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Programmers/PYNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Programmers/PYNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/AppleAndOrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/AppleAndOrange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/BinaryNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/BinaryNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/BirthdayCakeCandles.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/BirthdayCakeCandles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/BirthdayChocolate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/BirthdayChocolate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/BonAppetit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/BonAppetit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/BreakingTheRecords.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/BreakingTheRecords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/DayOfTheProgrammer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/DayOfTheProgrammer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/DiagonalDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/DiagonalDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/Dictionaries.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/Dictionaries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/DivisibleSumPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/DivisibleSumPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/GradingStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/GradingStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/Kangaroo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/Kangaroo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/MigratoryBirds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/MigratoryBirds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/MiniMaxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/MiniMaxSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/PlusMinus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/PlusMinus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/Staircase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/Staircase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/TimeConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/TimeConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/HackerRank/TwoDArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/HackerRank/TwoDArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/JAVA/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/JAVA/Combination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/LeetCode/BuyAndSell.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/LeetCode/BuyAndSell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/LeetCode/FindDisappeared.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/LeetCode/FindDisappeared.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/LeetCode/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/LeetCode/MoveZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/LeetCode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/LeetCode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/ChangeWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/ChangeWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/Dir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/Dir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/Jump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/Network.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/Network.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/TargetNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/TargetNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/Tower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/Tower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/TravelPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/TravelPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/TwoXn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/TwoXn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/VisitedLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/VisitedLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/Programmers/WordChainGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/src/Programmers/WordChainGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/Wheel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,22 +47,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Wheel">
-    <configuration name="CardSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.CardSorting" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IPv6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.IPv6" />
+  <component name="RunManager" selected="Application.Teaching">
+    <configuration name="BabyShark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.BabyShark" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -164,8 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PutClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.PutClass" />
+    <configuration name="MovePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.MovePeople" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teaching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.Teaching" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -192,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teaching" />
+        <item itemvalue="Application.BabyShark" />
+        <item itemvalue="Application.MovePeople" />
         <item itemvalue="Application.Wheel" />
         <item itemvalue="Application.MakeSecret" />
-        <item itemvalue="Application.PutClass" />
-        <item itemvalue="Application.IPv6" />
-        <item itemvalue="Application.CardSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +221,7 @@
       <workItem from="1600566364162" duration="7209000" />
       <workItem from="1600599272098" duration="7573000" />
       <workItem from="1600654648433" duration="2632000" />
-      <workItem from="1600738421176" duration="2599000" />
+      <workItem from="1600738421176" duration="15912000" />
     </task>
     <servers />
   </component>
@@ -316,105 +239,105 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="2490" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598608873849" />
-    <state width="1878" height="206" key="GridCell.Tab.0.bottom" timestamp="1600742469262">
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom" timestamp="1600757328492">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.0.bottom/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767797" />
     <state width="1750" height="370" key="GridCell.Tab.0.bottom/-1116.23.1116.733/0.0.1792.1120@0.0.1792.1120" timestamp="1599830147447" />
     <state width="1750" height="262" key="GridCell.Tab.0.bottom/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434512" />
-    <state width="1878" height="206" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742469262" />
-    <state width="1878" height="281" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129241" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896112" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328492" />
     <state width="1750" height="216" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1600655585876" />
     <state width="1750" height="216" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1600656798698" />
     <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919320" />
     <state width="1878" height="262" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
     <state width="1878" height="251" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784679" />
     <state width="1878" height="192" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762387" />
-    <state width="1878" height="206" key="GridCell.Tab.0.center" timestamp="1600742469261">
+    <state width="1878" height="280" key="GridCell.Tab.0.center" timestamp="1600757328491">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.0.center/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767796" />
     <state width="1750" height="370" key="GridCell.Tab.0.center/-1116.23.1116.733/0.0.1792.1120@0.0.1792.1120" timestamp="1599830147446" />
     <state width="1750" height="262" key="GridCell.Tab.0.center/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434509" />
-    <state width="1878" height="206" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742469261" />
-    <state width="1878" height="281" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129240" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896110" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328491" />
     <state width="1750" height="216" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1600655585875" />
     <state width="1750" height="216" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1600656798697" />
     <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919318" />
     <state width="1878" height="262" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173351" />
     <state width="1878" height="251" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784678" />
     <state width="1878" height="192" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="206" key="GridCell.Tab.0.left" timestamp="1600742469260">
+    <state width="1878" height="280" key="GridCell.Tab.0.left" timestamp="1600757328491">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.0.left/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767795" />
     <state width="1750" height="370" key="GridCell.Tab.0.left/-1116.23.1116.733/0.0.1792.1120@0.0.1792.1120" timestamp="1599830147445" />
     <state width="1750" height="262" key="GridCell.Tab.0.left/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434508" />
-    <state width="1878" height="206" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742469260" />
-    <state width="1878" height="281" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129240" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896109" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328491" />
     <state width="1750" height="216" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1600655585875" />
     <state width="1750" height="216" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1600656798696" />
     <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919318" />
     <state width="1878" height="262" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173350" />
     <state width="1878" height="251" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784677" />
     <state width="1878" height="192" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762385" />
-    <state width="1878" height="206" key="GridCell.Tab.0.right" timestamp="1600742469261">
+    <state width="1878" height="280" key="GridCell.Tab.0.right" timestamp="1600757328492">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.0.right/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767797" />
     <state width="1750" height="370" key="GridCell.Tab.0.right/-1116.23.1116.733/0.0.1792.1120@0.0.1792.1120" timestamp="1599830147446" />
     <state width="1750" height="262" key="GridCell.Tab.0.right/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434510" />
-    <state width="1878" height="206" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742469261" />
-    <state width="1878" height="281" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129241" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896111" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328492" />
     <state width="1750" height="216" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1600655585876" />
     <state width="1750" height="216" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1600656798697" />
     <state width="1878" height="251" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919319" />
     <state width="1878" height="262" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599486173352" />
     <state width="1878" height="251" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784678" />
     <state width="1878" height="192" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1040@1792.23.1920.1057" timestamp="1598684762386" />
-    <state width="1878" height="280" key="GridCell.Tab.1.bottom" timestamp="1600742382483">
+    <state width="1878" height="280" key="GridCell.Tab.1.bottom" timestamp="1600757328495">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.1.bottom/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767800" />
     <state width="1750" height="262" key="GridCell.Tab.1.bottom/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434609" />
-    <state width="1878" height="280" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742382483" />
-    <state width="1878" height="281" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129244" />
+    <state width="1878" height="280" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896114" />
+    <state width="1878" height="280" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328495" />
     <state width="1750" height="262" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599906238974" />
     <state width="1750" height="262" key="GridCell.Tab.1.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1599906718678" />
     <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919322" />
     <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707004" />
     <state width="1878" height="251" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784681" />
-    <state width="1878" height="280" key="GridCell.Tab.1.center" timestamp="1600742382482">
+    <state width="1878" height="280" key="GridCell.Tab.1.center" timestamp="1600757328494">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.1.center/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767798" />
     <state width="1750" height="262" key="GridCell.Tab.1.center/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434608" />
-    <state width="1878" height="280" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742382482" />
-    <state width="1878" height="281" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129243" />
+    <state width="1878" height="280" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896113" />
+    <state width="1878" height="280" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328494" />
     <state width="1750" height="262" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599906238973" />
     <state width="1750" height="262" key="GridCell.Tab.1.center/0.23.1792.1040@0.23.1792.1040" timestamp="1599906718677" />
     <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919321" />
     <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707002" />
     <state width="1878" height="251" key="GridCell.Tab.1.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784680" />
-    <state width="1878" height="280" key="GridCell.Tab.1.left" timestamp="1600742382481">
+    <state width="1878" height="280" key="GridCell.Tab.1.left" timestamp="1600757328494">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.1.left/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767798" />
     <state width="1750" height="262" key="GridCell.Tab.1.left/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434607" />
-    <state width="1878" height="280" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742382481" />
-    <state width="1878" height="281" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129242" />
+    <state width="1878" height="280" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896112" />
+    <state width="1878" height="280" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328494" />
     <state width="1750" height="262" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599906238972" />
     <state width="1750" height="262" key="GridCell.Tab.1.left/0.23.1792.1040@0.23.1792.1040" timestamp="1599906718676" />
     <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919320" />
     <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599197707001" />
     <state width="1878" height="251" key="GridCell.Tab.1.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1599576784680" />
-    <state width="1878" height="280" key="GridCell.Tab.1.right" timestamp="1600742382483">
+    <state width="1878" height="280" key="GridCell.Tab.1.right" timestamp="1600757328495">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1750" height="262" key="GridCell.Tab.1.right/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599969767799" />
     <state width="1750" height="262" key="GridCell.Tab.1.right/-1116.23.1116.733/0.23.1792.1040@0.23.1792.1040" timestamp="1599969434608" />
-    <state width="1878" height="280" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600742382483" />
-    <state width="1878" height="281" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600607129243" />
+    <state width="1878" height="280" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600755896113" />
+    <state width="1878" height="280" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1600757328495" />
     <state width="1750" height="262" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599906238973" />
     <state width="1750" height="262" key="GridCell.Tab.1.right/0.23.1792.1040@0.23.1792.1040" timestamp="1599906718677" />
     <state width="1878" height="251" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599658919321" />
@@ -440,11 +363,11 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state x="2460" y="166" key="refactoring.ChangeSignatureDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599042813483" />
-    <state x="-843" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1600602034210">
+    <state x="-843" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1600752278992">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1005" y="249" width="670" height="702" key="search.everywhere.popup/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1599894249359" />
-    <state x="-843" y="240" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600602034210" />
+    <state x="-843" y="240" width="670" height="676" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1600752278992" />
     <state x="2869" y="240" width="670" height="676" key="search.everywhere.popup/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598883500805" />
   </component>
   <component name="XDebuggerManager">
