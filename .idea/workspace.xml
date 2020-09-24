@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/GoodSuYul.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +220,7 @@
       <workItem from="1600599272098" duration="7573000" />
       <workItem from="1600654648433" duration="2632000" />
       <workItem from="1600738421176" duration="15912000" />
-      <workItem from="1600928476452" duration="8840000" />
+      <workItem from="1600928476452" duration="10632000" />
     </task>
     <servers />
   </component>
