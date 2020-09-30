@@ -10,11 +10,29 @@ public class StreetThree {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        bw.write(solution("aabab") + "\n");
+        bw.write(solution("dog") + "\n");
+        bw.write(solution("aa") + "\n");
+        bw.write(solution("aaa") + "\n");
+
         bw.flush();
         bw.close();
     }
 
-    public static void solution() {
+    public static int solution(String s) {
+        if(s.contains("aaa")) {
+            return -1;
+        }
 
+        int count = 0;
+        for(int index = 0; index < s.length(); index++) {
+            if(s.charAt(index) != 'a') {
+                count++;
+            }
+        }
+
+        int answer = (count + 1) * 2;
+        answer += count;
+        return answer - s.length();
     }
 }
