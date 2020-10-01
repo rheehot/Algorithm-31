@@ -13,5 +13,5 @@ public class BOJ3197 {
         bw.flush();
         bw.close();
     }
-    
+
 }
