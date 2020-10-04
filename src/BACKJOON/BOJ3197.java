@@ -4,12 +4,15 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class BOJ3197 {
     static int R, C;
     static int[][] map;
-    static boolean meet = false;
+    static Queue<SwanNode> waterQ = new LinkedList<>();
+    static Queue<SwanNode> swanQ = new LinkedList<>();
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -17,108 +20,94 @@ public class BOJ3197 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         R = Integer.parseInt(st.nextToken());
         C = Integer.parseInt(st.nextToken());
-        map = new int[C][R];
-
+        map = new int[R][C];
         int swan = -1;
-        for(int row = 0; row < C; row++) {
+        for(int row = 0; row < R; row++) {
             String str = br.readLine();
-            for(int col = 0; col < R; col++) {
-                if(str.charAt(col) == 'X') {
+            for(int col = 0; col < C; col++) {
+                char temp = str.charAt(col);
+                if(temp == 'X') {
                     map[row][col] = 1;
+                    continue;
                 }
-                if(str.charAt(col) == 'L') {
+                if(temp == 'L') {
                     map[row][col] = swan;
+                    if(swan == -1) {
+                        swanQ.offer(new SwanNode(row, col));
+                    }
                     swan--;
                 }
+
+                waterQ.offer(new SwanNode(row, col));
             }
         }
+
         int days = 0;
-        while(!meet) {
-
-            for(int i = 0; i < C; i++) {
-                for(int j = 0; j < R; j++) {
-                    if(map[i][j] == -1) {
-                        move(i, j);
-                        if(meet) {
-                            bw.write(days + "");
-                            break;
-                        }
-                    }
-                }
-                if(meet) {
-                    break;
-                }
-            }
-            if(meet) {
-                break;
-            }
-
-            melt();
-
+        while(!swanMove()) {
+            melting();
             days++;
         }
 
+        bw.write(days + "");
         bw.flush();
         bw.close();
     }
 
     static int[] dirI = {0, 0, 1, -1};
     static int[] dirJ = {1, -1, 0, 0};
+    public static boolean swanMove() {
+        Queue<SwanNode> searchSwan = new LinkedList<>();
+        while(!swanQ.isEmpty()) {
+            SwanNode temp = swanQ.poll();
 
-    // 빙판 녹이기
-    public static void melt() {
-        boolean[][] visit = new boolean[C][R];
-        for(int i = 0; i < C; i++) {
-            for(int j = 0; j < R; j++) {
-                if(map[i][j] != 1) {
+            boolean flag = true;
+            for(int index = 0; index < 4; index++) {
+                int nextI = temp.i + dirI[index];
+                int nextJ = temp.j + dirJ[index];
+                // 지도를 넘어감
+                if(nextI < 0 || nextI >= R || nextJ < 0 || nextJ >= C) {
                     continue;
                 }
-
+                // 백조 만남
+                if(map[nextI][nextJ] == -2) {
+                    return true;
+                }
                 // 빙판
-                for(int index = 0; index < 4; index++) {
-                    int nextI = i + dirI[index];
-                    int nextJ = j + dirJ[index];
-                    if(nextI < 0 || nextI >= C || nextJ < 0 || nextJ >= R) {
-                        continue;
+                if(map[nextI][nextJ] == 1) {
+                    if(flag) {
+                        searchSwan.offer(temp);
+                        flag = false;
                     }
-
-                    // 녹는 빙하
-                    if(map[nextI][nextJ] == 0) {
-                        visit[i][j] = true;
-                        break;
-                    }
+                    continue;
                 }
+                // 방문함
+                if(map[nextI][nextJ] == -1) {
+                    continue;
+                }
+                map[nextI][nextJ] = -1;
+                swanQ.offer(new SwanNode(nextI, nextJ));
             }
         }
+        swanQ = searchSwan;
 
-        for(int i = 0; i < C; i++) {
-            for(int j = 0; j < R; j++) {
-                if(visit[i][j]) {
-                    map[i][j] = 0;
-                }
-            }
-        }
+        return false;
     }
 
-    // 백조 움직이기
-    public static void move(int i, int j) {
-        if(meet) {
-            return;
-        }
-        for(int index = 0; index < 4; index++) {
-            int nextI = i + dirI[index];
-            int nextJ = j + dirJ[index];
+    public static void melting() {
+        int size = waterQ.size();
+        for(int s = 0; s < size; s++) {
+            SwanNode temp = waterQ.poll();
 
-            if(nextI < 0 || nextI >= C || nextJ < 0 || nextJ >= R || map[nextI][nextJ] == 1 || map[nextI][nextJ] == -1) {
-                continue;
-            }
-            if(map[nextI][nextJ] == -2) {
-                meet = true;
-                return;
-            }
-            if(map[nextI][nextJ] == 0) {
-                map[nextI][nextJ] = -1;
-                move(nextI, nextJ);
+            for(int index = 0; index < 4; index++) {
+                int nextI = temp.i + dirI[index];
+                int nextJ = temp.j + dirJ[index];
+                if(nextI < 0 || nextI >= R || nextJ < 0 || nextJ >= C) {
+                    continue;
+                }
+                if(map[nextI][nextJ] == 1) {
+                    map[nextI][nextJ] = 0;
+                    waterQ.offer(new SwanNode(nextI, nextJ));
+                }
             }
         }
     }
