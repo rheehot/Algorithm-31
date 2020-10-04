@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ9019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ1194.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ1194.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ3197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ3197.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +229,7 @@
       <workItem from="1601554432518" duration="121000" />
       <workItem from="1601696386584" duration="7937000" />
       <workItem from="1601715978617" duration="3446000" />
-      <workItem from="1601781291552" duration="7588000" />
+      <workItem from="1601781291552" duration="8025000" />
     </task>
     <servers />
   </component>
