@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ15922.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ15922.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ15922.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ1623.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ1623.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.BOJ2098">
+  <component name="RunManager" selected="Application.BOJ15922">
     <configuration name="BOJ1039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BACKJOON.BOJ1039" />
       <module name="Algorithm" />
@@ -60,6 +62,19 @@
     </configuration>
     <configuration name="BOJ1194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BACKJOON.BOJ1194" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BACKJOON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ15922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BACKJOON.BOJ15922" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -97,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ3197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BACKJOON.BOJ3197" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BACKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ15922" />
         <item itemvalue="Application.BOJ2098" />
         <item itemvalue="Application.BOJ16397" />
         <item itemvalue="Application.BOJ1039" />
         <item itemvalue="Application.BOJ1194" />
-        <item itemvalue="Application.BOJ3197" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,7 @@
       <workItem from="1601781291552" duration="8807000" />
       <workItem from="1601905216660" duration="6447000" />
       <workItem from="1601953916613" duration="2965000" />
-      <workItem from="1602040283616" duration="157000" />
+      <workItem from="1602040283616" duration="1426000" />
     </task>
     <servers />
   </component>
