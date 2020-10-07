@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ16397.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/BOJ1039.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/BOJ1039.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/BOJ2098.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/BOJ2098.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/TravelNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ2098.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ2098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ15922.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +234,7 @@
       <workItem from="1601781291552" duration="8807000" />
       <workItem from="1601905216660" duration="6447000" />
       <workItem from="1601953916613" duration="2965000" />
+      <workItem from="1602040283616" duration="157000" />
     </task>
     <servers />
   </component>
@@ -369,8 +365,8 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="500" height="445" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598526327281" />
-    <state x="573" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1601954064778">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1602040285770">
+      <screen x="0" y="23" width="1792" height="1040" />
     </state>
     <state x="-1306" y="331" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1601105673391" />
     <state x="573" y="378" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1601554432544" />
@@ -378,7 +374,7 @@
     <state x="-1306" y="403" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1601715979299" />
     <state x="-1306" y="365" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1601086338267" />
     <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601954064778" />
-    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1597297803063" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1602040285770" />
     <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599712031974" />
     <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599626337955" />
     <state x="2460" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1599042813483">
