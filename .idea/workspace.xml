@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/LeoCapet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/Phonekemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/CouFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/CouOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/CouThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/CouTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ1107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BACKJOON/BOJ1890.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BACKJOON/BOJ1890.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ1890.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ1890.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +239,8 @@
       <workItem from="1602151547483" duration="9601000" />
       <workItem from="1602209338363" duration="1606000" />
       <workItem from="1602236153228" duration="9125000" />
-      <workItem from="1602305708234" duration="397000" />
+      <workItem from="1602305708234" duration="703000" />
+      <workItem from="1602409264041" duration="1173000" />
     </task>
     <servers />
   </component>
@@ -377,7 +371,7 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="500" height="445" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1598526327281" />
-    <state x="573" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1602305710235">
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1602409264382">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="573" y="378" key="com.intellij.ide.util.TipDialog/-1116.0.1116.756/0.0.1792.1120@0.0.1792.1120" timestamp="1602236185232" />
@@ -386,7 +380,7 @@
     <state x="573" y="377" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602151549859" />
     <state x="-1306" y="403" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1601715979299" />
     <state x="-1306" y="365" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1601086338267" />
-    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602305710235" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602409264382" />
     <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1602040285770" />
     <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599712031974" />
     <state x="2406" y="403" key="com.intellij.ide.util.TipDialog/1792.0.1920.1080/0.23.1792.1040@1792.0.1920.1080" timestamp="1599626337955" />
