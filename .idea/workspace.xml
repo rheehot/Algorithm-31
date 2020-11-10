@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dca4b9-8839-4779-b0bf-8941f871a24f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ2014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ2696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/WinterCodingOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/WinterCodingThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/WinterCodingTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/NHNOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/NHNThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/NHNTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ2638.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BACKJOON/BOJ1918.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BACKJOON/BOJ1918.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +247,7 @@
       <workItem from="1603514992800" duration="7423000" />
       <workItem from="1604120059722" duration="4059000" />
       <workItem from="1604380535183" duration="5155000" />
+      <workItem from="1604659796082" duration="604000" />
     </task>
     <servers />
   </component>
